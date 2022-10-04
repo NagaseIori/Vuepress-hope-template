@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://nageseiori.github.io/sitemap.xml
+Sitemap: https://nagaseiori.github.io/Vuepress-hope-template/sitemap.xml
