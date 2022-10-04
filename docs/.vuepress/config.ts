@@ -23,7 +23,7 @@ export default defineUserConfig({
         container: true,
       },
     },
-    hostname: "https://nageseiori.github.io",
+    hostname: "https://nagaseiori.github.io/Vuepress-hope-template/",
 
     navbar: [
       {
