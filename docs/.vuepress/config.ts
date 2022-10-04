@@ -23,7 +23,7 @@ export default defineUserConfig({
         container: true,
       },
     },
-    hostname: "/",
+    hostname: "https://nageseiori.github.io",
 
     navbar: [
       {

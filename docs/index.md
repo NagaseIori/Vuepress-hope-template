@@ -22,7 +22,12 @@ footer: MIT Licensed | Copyright © 2022
 
 ## 🚀 Install & Build
 
-```
+```bash
+# install pnpm
+corepack enable
+corepack prepare pnpm@7.11.0 --activate
+
+# run
 pnpm install
 pnpm docs:dev
 pnpm docs:build
